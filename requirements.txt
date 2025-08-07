@@ -1,2 +1,2 @@
-selenium=4.33.0
+selenium=4.32.1
 pygame=2.6.1
