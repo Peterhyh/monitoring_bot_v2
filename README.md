@@ -1,4 +1,4 @@
-# 📋 Monitoring Bot V2
+# 🖥️ Monitoring Bot V2
 
 A simple and elegant GUI built with **Python**.
 
